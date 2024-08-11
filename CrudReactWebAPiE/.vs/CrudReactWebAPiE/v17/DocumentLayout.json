@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|c:\\users\\excalibur\\documents\\github\\students-info-system---asp-.net-web-uygulamas----react.js---sql-server\\back-end\\crudreactwebapie\\crudreactwebapie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\models\\modelreactwebapi.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\models\\modelreactwebapi.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\crudreactwebapie\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2C7326-4061-478F-B2A2-C607A26CDA52}|CrudReactWebAPiE\\CrudReactWebAPiE.csproj|solutionrelative:crudreactwebapie\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudReactWebAPiE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:38:21.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:37:50.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:31:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\UsersModel.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\UsersModel.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\UsersModel.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\UsersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:21:20.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\Users.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:20:04.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelReactWebApi2.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi2.edmx",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi2.edmx",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi2.edmx [Diagram1]",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi2.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-16T05:19:28.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:44:11.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelReactWebApi.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:19:24.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelReactWebApi.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx.diagram",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx.diagram",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx.diagram",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-15T13:19:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModelReactWebApi.tt",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.tt",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi.tt",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.tt",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-15T13:19:21.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelReactWebApi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.Designer.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi.Designer.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.Designer.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:19:20.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:40:55.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\packages.config",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\packages.config",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\packages.config",
+              "RelativeToolTip": "CrudReactWebAPiE\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-14T07:27:12.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Global.asax.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:18:40.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Web.config",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Web.config",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Web.config",
+              "RelativeToolTip": "CrudReactWebAPiE\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwFQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-14T07:17:54.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:16:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:22:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\Response.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:18:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\StudentModel.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:15:34.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\Student.cs",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:14:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelReactWebApi.Context.tt",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.Context.tt",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi.Context.tt",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.Context.tt",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-13T06:14:05.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelReactWebApi.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx",
+              "RelativeDocumentMoniker": "CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Students-Info-System---ASP-.NET-Web-Uygulamas----React.js---SQL-Server\\Back-End\\CrudReactWebAPiE\\CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx [Diagram1]",
+              "RelativeToolTip": "CrudReactWebAPiE\\Models\\ModelReactWebApi.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-13T06:11:57.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

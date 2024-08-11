@@ -1,0 +1,102 @@
+.container {
+  background-size: cover; /* Resmi kapsayıcıya sığdırır */
+  background-position: center; /* Resmi ortalar */
+  background-repeat: no-repeat; /* Tekrarlamayı engeller */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+  min-height: 100vh; /* Occupy full height */
+  padding: 1rem;
+  background-color: rgb(225, 222, 50);
+  border-left: 120px solid navy; /* Add navy border to the left */
+  border-right: 120px solid navy; /* Add navy border to the right */
+  
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 1000px; /* Increase max-width to match the table */
+  /*border-left: 10px solid navy;  Add navy border to the left */
+  /*border-right: 10px solid navy;  Add navy border to the right */
+}
+
+form label {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+form input,
+form textarea {
+  font-size: 24px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%; /* Ensure form elements take full width */
+  width: 1000px;
+  border-radius: 40px;
+}
+
+form button {
+  font-size: 24px;
+  padding: 10px;
+  width: auto;
+  max-width: 200px;
+  background-color: #23c95d;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin: auto;
+  margin-bottom: 25px;
+  margin: 0 40%;
+}
+
+form button:hover {
+  background-color: #45a049;
+}
+
+.edit-button,
+.delete-button {
+  width: auto;
+  max-width: 100px;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.edit-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 15px;
+}
+
+.delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 15px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%; /* Ensure table takes full width of container */
+  max-width: 1000px; /* Limit maximum width */
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: rgb(77, 213, 102);
+}
+
+td {
+  background-color: rgb(244, 247, 249);
+}
